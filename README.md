@@ -1,3 +1,13 @@
+Dear HR, read this:)
+
+I have been informed (and punished) about everything I have done wrong in this project.
+Also, the project was done by the end of the semester, so there are some bugs to be found.
+I know, that:
+1) It is a wrong practice to store Employee's assignment to his Manager "in" the Manager, I was informed, that each Employee should store his own "assignment"
+2) If I was to do the project today, I would load the data from file in another way
+
+Actual documentation:
+
 # Projekt PROI
 
 ## Dane zespołu
