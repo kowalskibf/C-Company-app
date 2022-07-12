@@ -3,6 +3,7 @@
 ## Dane zespołu
 
 Numer zespołu: Z08
+
 Skład zespołu: Bartosz Kowalski
 
 ## Tematyka i krótki opis
